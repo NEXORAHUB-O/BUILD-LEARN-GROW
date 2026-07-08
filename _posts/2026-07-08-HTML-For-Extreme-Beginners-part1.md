@@ -9,7 +9,7 @@ tags:
   - beginner
   - tutorial
   - coding
-image: /assets/images/posts/html-basics/cover.jpg
+image: https://images.unsplash.com/photo-1515879218367-8466d910aaa4
 excerpt: "Learn HTML from scratch in the simplest way possible. This beginner-friendly guide explains HTML using real-life examples and helps you build your first webpage."
 ---
 
