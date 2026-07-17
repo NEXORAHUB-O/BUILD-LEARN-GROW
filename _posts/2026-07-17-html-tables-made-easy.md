@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML Tables Made Easy: Create Professional Tables Step by Step"
-date: 2026-07-31
+date: 2026-07-17
 author: Chayank
 
 categories:
