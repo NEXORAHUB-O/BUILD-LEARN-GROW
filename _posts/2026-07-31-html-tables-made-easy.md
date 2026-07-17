@@ -1,26 +1,23 @@
 ---
-
 layout: post
 title: "HTML Tables Made Easy: Create Professional Tables Step by Step"
 date: 2026-07-31
 author: Chayank
 
 categories:
-
-* html
+  - html
 
 tags:
+  - html
+  - beginner
+  - html-tables
+  - web-development
+  - coding
 
-* html
-* beginner
-* html tables
-* web development
-* coding
+image: https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?q=80&w=900&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 
-image: "/assets/images/html-part4-cover.jpg"
-
-## excerpt: "Learn HTML tables from scratch with simple explanations, real-life examples, and hands-on practice. Perfect for beginners who want to organize data professionally."
-
+excerpt: "Learn HTML tables from scratch with simple explanations, real-life examples, and hands-on practice."
+---
 # HTML Tables Made Easy: Create Professional Tables Step by Step
 
 Welcome back! 👋
