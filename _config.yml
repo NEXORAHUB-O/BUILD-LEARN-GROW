@@ -1,6 +1,24 @@
+title: Build Learn Grow
+description: Learn HTML, Python, AI, Web Development, Technology, and JEE through beginner-friendly tutorials.
+author:
+  name: Chayank
+
 theme: minima
-baseurl: "/BUILD-LEARN-GROW"
+
 url: "https://nexorahub-o.github.io"
+baseurl: "/BUILD-LEARN-GROW"
+
+lang: en
 
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
