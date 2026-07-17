@@ -3,7 +3,7 @@ layout: post
 title: "HTML Basics for Absolute Beginners: Your First Step into Web Development"
 date: 2026-07-08
 author: Chayank
-categories: web-development
+categories: html
 tags:
   - html
   - beginner
