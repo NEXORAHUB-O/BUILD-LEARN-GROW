@@ -7,11 +7,11 @@ author: Chayank
 categories: html
 tags:
 
-* html
-* beginner
-* tutorial
-* web-development
-* coding
+-html
+-beginner
+-tutorial
+-web-development
+-coding
   image: https://images.unsplash.com/photo-1516321318423-f06f85e504b3
   excerpt: "Learn how to format text, create lists, and add links in HTML. This beginner-friendly guide explains everything with simple examples and hands-on practice."
 
