@@ -6,12 +6,11 @@ date: 2026-07-17
 author: Chayank
 categories: html
 tags:
+  - html
+  - beginner
+  - tutorial
+  - web-development
 
-* html
-* html tutorial
-* beginner
-* web development
-* coding
   image: https://images.unsplash.com/photo-1498050108023-c5249f4df085
   excerpt: "Learn how to format text, create lists, and add links in HTML with simple explanations and real-world examples. Perfect for absolute beginners."
 
