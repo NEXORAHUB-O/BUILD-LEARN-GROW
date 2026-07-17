@@ -1,19 +1,21 @@
 ---
-
 layout: post
 title: "HTML Text Formatting, Lists and Links: Make Your Webpages Beautiful"
 date: 2026-07-17
 author: Chayank
-categories: html
+
+categories:
+  - html
+
 tags:
   - html
   - beginner
   - tutorial
   - web-development
 
-  image: https://images.unsplash.com/photo-1498050108023-c5249f4df085
-  excerpt: "Learn how to format text, create lists, and add links in HTML with simple explanations and real-world examples. Perfect for absolute beginners."
+image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80"
 
+excerpt: "Learn how to format text, create lists, and add links in HTML with simple explanations and real-world examples. Perfect for absolute beginners."
 ---
 
 # HTML Text Formatting, Lists & Links: Make Your Webpages Beautiful
