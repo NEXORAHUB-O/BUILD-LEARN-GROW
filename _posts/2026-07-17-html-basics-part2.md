@@ -5,7 +5,8 @@ title: "HTML Part 2: Text Formatting, Lists & Links – Build Better Webpages"
 date: 2026-07-17
 author: Chayank
 categories: html
-tags:-html
+tags:
+-html
 -beginner
 -tutorial
 -web-development
