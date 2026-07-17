@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HTML Images and File Paths for Beginners: Add Pictures to Your Website Like a Pro"
-date: 2026-07-24
+date: 2026-07-17
 author: Chayank
 
 categories:
