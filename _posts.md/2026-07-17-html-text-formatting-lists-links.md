@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "HTML Text Formatting, Lists & Links: Make Your Webpages Beautiful"
+title: "HTML Text Formatting, Lists and Links: Make Your Webpages Beautiful"
 date: 2026-07-17
 author: Chayank
 categories: html
