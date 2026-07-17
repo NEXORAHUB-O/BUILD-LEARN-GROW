@@ -18,6 +18,7 @@ image: https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?q=80&w
 
 excerpt: "Learn HTML tables from scratch with simple explanations, real-life examples, and hands-on practice."
 ---
+
 # HTML Tables Made Easy: Create Professional Tables Step by Step
 
 Welcome back! 👋
