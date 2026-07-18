@@ -218,6 +218,144 @@ footer hr{
       font-weight: bold;
       margin-bottom: 12px;
     }
+    /* ==========================================
+   MOBILE RESPONSIVE DESIGN
+   ========================================== */
+
+@media (max-width: 768px) {
+
+    /* Navigation */
+    nav{
+        flex-direction:column;
+        align-items:center;
+        padding:15px;
+        gap:15px;
+    }
+
+    .logo{
+        font-size:24px;
+    }
+
+    nav div:last-child{
+        display:flex;
+        flex-wrap:wrap;
+        justify-content:center;
+        gap:12px;
+    }
+
+    nav a{
+        margin:0;
+        font-size:16px;
+    }
+
+    /* Hero Section */
+    .hero{
+        padding:60px 20px;
+    }
+
+    .hero h1{
+        font-size:34px;
+        line-height:1.3;
+    }
+
+    .hero p{
+        font-size:17px;
+    }
+
+    /* Main Content */
+    main{
+        padding:15px;
+    }
+
+    /* Blog Cards */
+    .card{
+        padding:18px;
+        border-radius:15px;
+    }
+
+    .card h2{
+        font-size:24px;
+    }
+
+    .card p{
+        font-size:16px;
+    }
+
+    /* Images */
+    img{
+        width:100%;
+        height:auto;
+    }
+
+    /* Category Buttons */
+    .filters{
+        justify-content:center;
+    }
+
+    .filters a{
+        font-size:15px;
+        padding:10px 15px;
+    }
+
+    /* Footer */
+    footer{
+        padding:30px 20px;
+    }
+
+    .footer-links{
+        display:flex;
+        flex-direction:column;
+        gap:12px;
+    }
+
+    .footer-links a{
+        margin:0;
+    }
+
+}
+
+/* Small Phones */
+
+@media (max-width:480px){
+
+    body{
+        font-size:16px;
+    }
+
+    .hero{
+        padding:45px 15px;
+    }
+
+    .hero h1{
+        font-size:28px;
+    }
+
+    .hero p{
+        font-size:15px;
+    }
+
+    .logo{
+        font-size:22px;
+    }
+
+    nav{
+        padding:12px;
+    }
+
+    .card{
+        padding:15px;
+    }
+
+    .card h2{
+        font-size:22px;
+    }
+
+    .filters a{
+        width:100%;
+        text-align:center;
+    }
+
+}
   </style>
 </head>
 
